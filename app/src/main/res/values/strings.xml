@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GitHub Seach</string>
+
+    <string name="apptitulo">GitHub Seach</string>
+    <string name="btnLimpar">Limpar</string>
+    <string name="search">Pesquisar</string>
+    <string name="perfil">Perfil</string>
+    <string name="repositorio">Repositório</string>
+    <string name="mensagemApp">Aplicativo de busca para usuários do GitHub. Veja o perfil clicando em cima do cartão.</string>
+
+
+</resources>
